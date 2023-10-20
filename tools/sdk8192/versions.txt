@@ -1,0 +1,9 @@
+esp-idf: c1c843f5e2
+arduino: master 601efed9
+esp32-camera: master efe711d
+esp-dl: master b0f3866
+esp_littlefs: master 357d0fd
+esp-rainmaker: master d8e9345
+esp-sr: master a779e54
+tflite-micro: master fa8c6c9
+tinyusb: master dd588222c
